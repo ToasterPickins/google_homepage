@@ -1,2 +1,2 @@
-# google_homepage
-2.2.3.1 - Google Homepage
+Google Homepage
+http://www.theodinproject.com/web-development-101/html-css?ref=lnav
